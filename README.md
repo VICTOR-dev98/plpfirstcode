@@ -1,1 +1,1 @@
-Pyhton calculator assignment week 1
+Python calculator assignment week 1
